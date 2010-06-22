@@ -1,0 +1,11 @@
+= expirable-file-store
+
+Like FileStore, but supports expiration arguments like memcache.
+
+== Note on Patches/Pull Requests
+ 
+* Don't. Really, this is crap right now.
+
+== Copyright
+
+CC-BY-SA (c) 2010 Martin Tithonium.
